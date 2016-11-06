@@ -1,0 +1,17 @@
+{
+  "name": "whs-plugin-follow",
+  "description": "Function to follow objects",
+  "main": "build/whs-plugin-follow.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "whs-plugin"
+  ],
+  "ignore": [
+    "node_modules",
+    "src",
+    "lib",
+    "examples",
+  ]
+}
